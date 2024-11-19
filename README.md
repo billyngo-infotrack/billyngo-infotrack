@@ -28,9 +28,7 @@
 
 - :office: &nbsp;I'm currently working at **Infotrack Global**
 - :speech_balloon: &nbsp;I like to talk about **InfotrackConnect** and other **BE topic**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on [linkedin]: https://www.linkedin.com/in/dat-ngo "Billy Ngo LinkedIn"
+- :computer: &nbsp;Connect with me on [linkedin] https://www.linkedin.com/in/dat-ngo
 
 <br>
 
@@ -42,13 +40,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" width="48" height="48" alt="C#" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="48" height="48" alt="SQL Server" />
       </a>
       <br>Python
     </td>
@@ -60,7 +58,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://camo.githubusercontent.com/ac4429a2dc797c328d150a0410667c5a14cf4d19f25bcd059a481b7d81fd2ea1/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f6a732e706e67" width="48" height="48" alt="Javascript" />
       </a>
       <br>TypeScript
     </td>
@@ -75,18 +73,6 @@
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
     </td>
   </tr>
 </table>
