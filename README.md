@@ -2,7 +2,7 @@
 <h3 align="left">I do backend Engineering things</h3>
 
 <p align="left">
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+  <a href="https://github.com/billyngo-infotrack">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
