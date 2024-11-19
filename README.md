@@ -33,12 +33,6 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://camo.githubusercontent.com/ac4429a2dc797c328d150a0410667c5a14cf4d19f25bcd059a481b7d81fd2ea1/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f6a732e706e67" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
