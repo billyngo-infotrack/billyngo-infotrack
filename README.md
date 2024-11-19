@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Billy Ngo</h1>
-<h3 align="left">I do backend Engineering things</h3>
+<h3 align="left">I do Backend Engineering things</h3>
 
 <p align="left">
   <a href="https://github.com/billyngo-infotrack">
@@ -8,7 +8,7 @@
 </p>
 
 - :office: &nbsp;I'm currently working at **Infotrack Global**
-- :speech_balloon: &nbsp;I like to talk about **InfotrackConnect** and other **BE topic**
+- :speech_balloon: &nbsp;I like to talk about **Problem Solving**, **New Technologies**, **Software Architechture** and **Optimization Techniques**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/dat-ngo)
 
 <br>
