@@ -9,7 +9,7 @@
 
 - :office: &nbsp;I'm currently working at **Infotrack Global**
 - :speech_balloon: &nbsp;I like to talk about **InfotrackConnect** and other **BE topic**
-- :computer: &nbsp;Connect with me on [linkedin] https://www.linkedin.com/in/dat-ngo
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/dat-ngo)
 
 <br>
 
